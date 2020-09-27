@@ -1,28 +1,7 @@
-<<<<<<< HEAD
-# duku-vue-template
+本项目为Vue版Duku项目的基础前端管理模板
 
-## Project setup
-```
-npm install
-```
+在线体验地址:http://118.25.3.107:8999
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+包含首页,登陆页
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-# duku_vue_template
->>>>>>> 65db2c79c6971a542978190617afeec7bb6a8b85
+功能较简单,如续eCharts,表格等组件可自己集成.
