@@ -1,0 +1,43 @@
+.home {
+    .num {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+
+        .el-card {
+            width: 18%;
+            margin-bottom: 20px;
+        }
+
+        .icon {
+            font-size: 30px;
+            width: 80px;
+            height: 80px;
+            text-align: center;
+            line-height: 80px;
+            color: #fff;
+        }
+
+        .detail {
+            margin-left: 15px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+
+            .text {
+                font-size: 14px;
+                text-align: left;
+                color: #999;
+            }
+
+            .num {
+                font-size: 30px;
+                margin-bottom: 10px;
+                top: 0;
+                left: 0;
+                right: 0;
+                margin: auto;
+            }
+        }
+    }
+}
